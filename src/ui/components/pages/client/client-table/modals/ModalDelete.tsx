@@ -18,7 +18,7 @@ export const ModalDelete = (props: ModalDeleteProps) => {
 
     return (
       <ModalBase
-      title="Excluir Serviço"
+      title="Excluir Cliente"
       triggerButton={
         <Button className="bg-white text-primary hover:bg-white">
           <Trash className="mr-2 h-4 w-4" /> Excluir

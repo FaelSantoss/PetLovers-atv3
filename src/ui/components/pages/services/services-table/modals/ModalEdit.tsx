@@ -17,7 +17,7 @@ export const ModalEdit = (props: ModalEditProps) => {
 
   return (
     <ModalBase
-      title="Editar Produto"
+      title="Editar Serviço"
       triggerButton={
         <Button className="bg-white text-primary hover:bg-white">
           <Edit className="mr-2 h-4 w-4" /> Editar
